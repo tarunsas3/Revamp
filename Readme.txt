@@ -1,7 +1,4 @@
 
-== Agora Appbuilder ==
-
-
 Instructions to run the project:
 
 1. Open a terminal inside this folder
